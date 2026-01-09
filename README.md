@@ -1,5 +1,5 @@
 ### Supported Games:
-* 1. Zombie Attack
+* Zombie Attack
 
 ## Femobi Loader~
 ```lua
