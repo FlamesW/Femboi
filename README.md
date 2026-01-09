@@ -1,5 +1,5 @@
 ### Supported Games:
-* Zombie Attack
+* Zombie Attack | https://www.roblox.com/games/1240123653/Zombie-Attack
 
 ## Femobi Loader~
 ```lua
