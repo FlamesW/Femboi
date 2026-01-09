@@ -3,5 +3,6 @@
 
 ## Femobi Loader~
 ```lua
+getgenv().Keybind = Enum.KeyCode.V -- // ok
 loadstring(game:HttpGet("https://raw.githubusercontent.com/FlamesW/Femboi/home/Loader.lua"))()
 ```
