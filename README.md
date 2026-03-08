@@ -1,11 +1,13 @@
 #### Supported Games:
 * Zombie Attack | https://www.roblox.com/games/1240123653/Zombie-Attack
+* Reel A Brainrot | https://www.roblox.com/games/106772177198260/Reel-a-Brainrot
 
 #### Review:
-<img width="432" height="426" alt="{FCCC9A19-6CF5-4B04-B25A-7B2D8081B40F}" src="https://github.com/user-attachments/assets/3ac2a15c-9f70-49c5-8614-31715262573b" />
+<img width="416" height="413" alt="{B3C2E29C-6E68-4549-BBC0-CD5443AFF29F}" src="https://github.com/user-attachments/assets/6600904f-8dd4-42da-a238-cb1c558bb1fe" />
+
 
 ### Femobi Loader~
 ```lua
-getgenv().Keybind = Enum.KeyCode.V -- // ok
+getgenv().Keybind = Enum.KeyCode.V -- // Default -> "V"
 loadstring(game:HttpGet("https://raw.githubusercontent.com/FlamesW/Femboi/home/Loader.lua"))()
 ```
