@@ -17,7 +17,7 @@ if InMaintenance == true then
 end
 
 Femboi.Services = {["VirtualUser"] = Femboi.GetService("VirtualUser"),
-	["CoreGui"] = Femboi.GetService("CoreGui"),
+	-- ["CoreGui"] = Femboi.GetService("CoreGui"),
 	["Connections"] = getconnections or get_signal_cons
 }
 
